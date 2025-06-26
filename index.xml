@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feed Moved Notice</title>
+    <link>https://ohaodha.ie/index.xml</link>
+    <description>This RSS feed has permanently moved to a new location. Please update your subscription.</description>
+
+    <!-- Identify this document (old URL) -->
+    <atom:link rel="self"
+               type="application/rss+xml"
+               href="https:/0hAodha.github.io/index.xml" />
+
+    <!-- Advertise the new feed location -->
+    <atom:link rel="alternate"
+               type="application/rss+xml"
+               href="https://ohaodha.ie/index.xml" />
+
+    <item>
+      <title>Feed Moved Permanently</title>
+      <link>https://ohaodha.ie/index.xml</link>
+      <guid isPermaLink="true">https://ohaodha.ie/index.xml</guid>
+      <pubDate>Thu, 26 Jun 2025 12:00:00 +0000</pubDate>
+      <description><![CDATA[
+        This feed has moved permanently to 
+        <a href="https://ohaodha.ie/index.xml">https://ohaodha.ie/index.xml</a>.
+      ]]></description>
+    </item>
+  </channel>
+</rss>
